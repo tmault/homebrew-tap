@@ -6,7 +6,7 @@ Personal Homebrew tap for small utilities.
 
 ```bash
 brew tap tmault/tap
-brew install --HEAD tmault/tap/deepl-api-usage
+brew install --head tmault/tap/deepl-api-usage
 ```
 
 ## Formulae
